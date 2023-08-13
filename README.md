@@ -1,3 +1,3 @@
 # This is my repo for SQL practise.
-Simple commands. Under each screen is a short brief what I wanted to accomplish or get from SQL
+Simple commands. Each printscreen contains task what I had to do to gather remaining data
 I grouped each folder for similar commands.
